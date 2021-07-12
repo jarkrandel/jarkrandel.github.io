@@ -3,14 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "TEST"
-    url: /TEST/
-    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
