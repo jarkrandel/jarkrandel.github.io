@@ -6,10 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: https://jarkrandel.github.io/images/personalpic.jpg
-  caption: "it's me!"
 ---
+
+![It's Me!](https://jarkrandel/github.io/images/personalpic.jpg)
 
 **Email:** jared.krandel@stonybrook.edu
 
