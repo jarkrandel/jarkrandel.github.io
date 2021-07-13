@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![It's Me!](https://jarkrandel/github.io/images/personalpic.jpg)
+<p align="center">
+  <img src="/images/personalpic.jpg" width="450" height="450" />
+</p>
 
 **Email:** jared.krandel@stonybrook.edu
 
