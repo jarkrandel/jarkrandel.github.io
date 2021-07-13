@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "Jared Krandel"
 facebook:
-  username               :
+  username               : "Jared Krandel"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,14 +87,14 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "jared.krandel@stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Jared Krandel"
   foursquare       :
   github           : "jarkrandel"
   google_plus      :
@@ -108,12 +108,12 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  tumblr           : 
+  twitter          : "Jared Krandel"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "Jared Krandel"
   wikipedia        :
 
 
