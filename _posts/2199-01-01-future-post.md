@@ -36,8 +36,26 @@ We draw a circle around $z$ of radius $r$ and look at the part of the curve cont
 
 (pics of snapshots of balls?)
 
-Next, we draw a line which is as close to the piece of the curve inside of the ball as possible, minimizing the largest distance between any point on the curve and the line.
+Next, we find the tube of smallest width which contains all of the pieces of the curve inside the circle
 
-(pics of lines and distances)
+(pic)
 
-We then divide this length by the radius of the ball. 
+and we define $\beta(z,r)$ to be the fraction
+
+\[ \beta(z,r) = \frac{\text{width of thinnest tube}{2r} \]
+
+The reason we divide by $r$ is so that this number is independent of the size, or scale, of the circle we're looking at. We want the $\beta$ numbers to be numbers which are dependent only on the shape of the picture, not the size
+
+(pic of the same balls of different sizes that all have the same beta)
+
+This property of the beta numbers is often referred to as scale invariance. These numbers are always greater than or equal to 0 and less than or equal to 1,
+
+\[ 0 \leq \beta(z,r) \leq 1, \]
+
+and the smaller they are, the closer the curve is to being straight inside of the circle. Conversely, the larger this number is, the further the curve is from being straight inside of the circle. 
+
+(examples of different values of beta numbers)
+
+There we have it, a number which quantifies bendiness! 
+
+
