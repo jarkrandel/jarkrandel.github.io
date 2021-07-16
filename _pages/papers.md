@@ -5,4 +5,4 @@ permalink: /papers/
 author_profile: true
 ---
 
-* The Traveling Salesman Theorem for Jordan Curves in Hilbert Space. (2021). Preprint. <Link here>
+* The Traveling Salesman Theorem for Jordan Curves in Hilbert Space. (2021). Preprint. https://arxiv.org/abs/2107.07017
