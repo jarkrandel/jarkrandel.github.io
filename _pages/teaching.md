@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant
 * Fall 2022
-  * [MAT 312 / AMS 351](https://www.math.stonybrook.edu/MAT351): Applied Algebra
+  * [MAT 312 / AMS 351](https://www.math.stonybrook.edu/MAT312): Applied Algebra
   * R01 : Tu 1:15PM - 2:10PM
   * R02 : We 11:45AM - 12:40PM
 * Spring 2022
