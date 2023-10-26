@@ -15,7 +15,7 @@ redirect_from:
 
 **Email:** jared.krandel@stonybrook.edu
 
-**Office:** Math Tower 2-122
+**Office:** Math Tower 2-115
 
 I'm Jared Krandel, a PhD candidate in Math at Stony Brook University who is primarily interested in topics surrounding Geometric Measure Theory. My advisor is [Raanan Schul](http://www.math.stonybrook.edu/~schul/). 
 
