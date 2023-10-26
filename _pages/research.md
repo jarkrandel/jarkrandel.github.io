@@ -12,5 +12,5 @@ author_profile: true
 
 ## Talk Slides
 
-+ Lipschitz decompositions: Rainwater Long talk. May 2, 2023
-+ Intro to Quantitative Geoemtric Measure Theory (What's a corona decomposition?). Rainwater short talk. May 2, 2023
++ [Lipschitz decompositions](https://jarkrandel.github.io/files/Rainwater_long_talk_2023.pdf): Rainwater Long talk. May 2, 2023
++ [Intro to Quantitative Geometric Measure Theory](https://jarkrandel.github.io/files/Rainwater_short_talk_2023.pdf) (What's a corona decomposition?). Rainwater short talk. May 2, 2023
