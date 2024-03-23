@@ -12,6 +12,6 @@ author_profile: true
 4. Jared Krandel. **Uniformly rectifiable metric spaces satisfy the weak constant density condition**. Preprint. arXiv: [2403.14479](<https://arxiv.org/abs/2403.14479v1>), 2024
 
 ## Talk Slides
-
++ [UR Metric Spaces satisfy the WCD](https://jarkrandel.github.io/files/WCD_Talk.pdf): University of Tennessee. March 20, 2024
 + [Lipschitz decompositions](https://jarkrandel.github.io/files/Rainwater_long_talk_2023.pdf): Rainwater Long talk. May 2, 2023
 + [Intro to Quantitative Geometric Measure Theory](https://jarkrandel.github.io/files/Rainwater_short_talk_2023.pdf) (What's a corona decomposition?). Rainwater short talk. May 2, 2023
