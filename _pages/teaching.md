@@ -4,8 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Instructor - UC Davis
+* Winter 2025
+  * [MAT 127B](https://www.math.ucdavis.edu/courses/syllabus_detail?cm_id=74): Real Analysis
 
-## Teaching Assistant
+## Teaching Assistant - Stony Brook University
 * Spring 2024
   * [MAT 319](https://www.math.stonybrook.edu/MAT319): Foundations of Analysis
 * Fall 2022
