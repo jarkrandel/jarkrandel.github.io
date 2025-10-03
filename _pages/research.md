@@ -14,6 +14,7 @@ author_profile: true
 
 ## Talk Slides
 
++ [Thesis Defense](https://jarkrandel.github.io/files/Thesis_defense.pdf): Stony Brook University. May 6, 2024
 + [UR Metric Spaces satisfy the WCD](https://jarkrandel.github.io/files/WCD_Talk.pdf): University of Tennessee. March 20, 2024
 + [Lipschitz decompositions](https://jarkrandel.github.io/files/Rainwater_long_talk_2023.pdf): Rainwater Long talk. May 2, 2023
 + [Intro to Quantitative Geometric Measure Theory](https://jarkrandel.github.io/files/Rainwater_short_talk_2023.pdf) (What's a corona decomposition?). Rainwater short talk. May 2, 2023
