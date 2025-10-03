@@ -14,6 +14,8 @@ redirect_from:
 
 **Email:** jkrandel@ucdavis.edu
 
+[**CV**](https://jarkrandel.github.io/files/CV-10-3-2025.pdf)
+
 I'm Jared Krandel, a Krener Assistant Professor at UC Davis mentored by [Qinglan Xia](https://www.math.ucdavis.edu/~qlxia/) who is primarily interested in topics surrounding Geometric Measure Theory. My advisor was [Raanan Schul](http://www.math.stonybrook.edu/~schul/). In Fall 2024, I was a postdoc at [SLMath](https://www.slmath.org/) advised by [Tatiana Toro](https://sites.math.washington.edu/~toro/).
 
 I grew up in [Rockford, Illinois](https://www.google.com/maps/place/Rockford,+IL/@42.2687732,-89.1007626,13z/data=!4m5!3m4!1s0x8808b9cdfd0300db:0xacad897828f6780!8m2!3d42.2711311!4d-89.0939952) and graduated from the University of Illinois Urbana-Champaign with a B.S. in Physics and a B.S. in Math. At UIUC, I dabbled in undergraduate math [research](https://link.springer.com/article/10.1007/s11139-019-00196-3) at the [IGL](https://math.illinois.edu/research/igl) and got hooked. 
