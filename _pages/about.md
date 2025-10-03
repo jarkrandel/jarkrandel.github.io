@@ -19,5 +19,5 @@ I grew up in [Rockford, Illinois](https://www.google.com/maps/place/Rockford,+IL
 If you're interested in learning about Geometric Measure Theory and have the prerequisite knowledge, I highly recommend Jonas Azzam's [notes and videos](https://bobbyshukrallah.github.io/docs/gmt/) accompanying his graduate level course. 
 
 <p align="center">
-  <img src="/images/Geneva_pic.jpg" width="600" height="1066" />
+  <img src="/images/Lucerne_pic.jpg" width="600" height="1066" />
 </p>
