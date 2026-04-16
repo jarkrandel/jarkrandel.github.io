@@ -5,6 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Extra
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Jared Krandel"
